@@ -1,6 +1,6 @@
 ## Ola! Eu sou João Batista Carvalho.
 ### Bem vindo! 🎉
-Segue abaixo alguns dos meus trabalho e aplicações, mas não assuste com os codigos, alguns podem está alguns estão sempre em melhoria. :trollface:
+
 <div align="center">
   <a href="https://github.com/batistacarvalho2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batistacarvalho2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
