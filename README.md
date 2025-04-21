@@ -1,7 +1,9 @@
 ## Ola! Eu sou João Batista Carvalho.
 ### Bem vindo! 🎉
 - Hoje trabalho com back-end 👨🏼‍💻
-
+- Experiencia em diversos bancos SQL 🛠️
+- Aprimorando front-end 📚
+- Apreciador de um bom café ☕♨
 <div align="center">
   <a href="https://github.com/batistacarvalho2">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=batistacarvalho2&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
